@@ -1,0 +1,57 @@
+body{
+     background-image: url(D1.jpg);
+     background-attachment: fixed;
+     background-repeat:no-repeat;
+    background-size: cover; 
+    list-style: 1.6;
+    padding: 20px;
+     font-family: Arial, Helvetica, sans-serif
+} 
+header{
+    box-shadow: inset 0 0 10px plum;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+nav{
+    background-color: lightgray;
+    text-align: right;
+    box-shadow: inset 0 0 10px grey;
+    background-position: center;
+    width: 80%;
+    margin: left;
+    padding: 40px;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+h2{
+    color: rgb(252, 249, 252);
+    font-family: Arial, Helvetica, sans-serif;
+        font-weight: 400;
+}
+p{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+footer{
+    background-color: lightgrey;
+    box-shadow: inset 0 0 10px grey;
+    text-align: center;
+    width: 80%;
+    margin: left;
+    padding: 40px;
+}
+ul, li {
+    list-style-type: none;
+    color: whitesmoke; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 600;
+}
+
